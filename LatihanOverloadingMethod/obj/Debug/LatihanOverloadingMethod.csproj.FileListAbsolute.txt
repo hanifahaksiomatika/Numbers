@@ -1,0 +1,6 @@
+C:\Hani\smt 2\progamming\TUGAS PERTEMUAN 6\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\LatihanOverloadingMethod.exe.config
+C:\Hani\smt 2\progamming\TUGAS PERTEMUAN 6\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\LatihanOverloadingMethod.csprojResolveAssemblyReference.cache
+C:\Hani\smt 2\progamming\TUGAS PERTEMUAN 6\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\LatihanOverloadingMethod.exe
+C:\Hani\smt 2\progamming\TUGAS PERTEMUAN 6\LatihanOverloadingMethod\LatihanOverloadingMethod\bin\Debug\LatihanOverloadingMethod.pdb
+C:\Hani\smt 2\progamming\TUGAS PERTEMUAN 6\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\LatihanOverloadingMethod.exe
+C:\Hani\smt 2\progamming\TUGAS PERTEMUAN 6\LatihanOverloadingMethod\LatihanOverloadingMethod\obj\Debug\LatihanOverloadingMethod.pdb
